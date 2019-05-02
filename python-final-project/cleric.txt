@@ -1,0 +1,6 @@
+CLERIC
+
+The class in which saying a "Hail Mary" might actually smite a graveyard of zombies.
+
+INFO: Coming soon!
+

@@ -1,0 +1,9 @@
+====================
+
+HALFLING
+
+Small people who live in hills. For best results when bribing, use ale or baked goods!
+
+DEX: +#
+STR: -#
+

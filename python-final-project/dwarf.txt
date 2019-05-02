@@ -1,0 +1,6 @@
+DWARF
+
+Short, taciturn, and materialistic, dwarves make their dwellings beneath hilly and mountainous regions. Their greatest loves in life are strong drink, valuable metals, and precious gems. They are not well-suited to riding or magic, but their talent in fighting, craftsmanship, and engineering can be invaluable to a party.
+
+CON: +1
+CHA: -1

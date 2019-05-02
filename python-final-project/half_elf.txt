@@ -1,0 +1,6 @@
+HALF-ELF
+
+Half man, half elf. The best of both worlds!
+
+CHA: +#
+CON: -#

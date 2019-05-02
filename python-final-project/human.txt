@@ -1,0 +1,7 @@
+HUMAN
+
+The vanilla flavor of the fantasy world races. 
+
+INT: +#
+WIS: -#
+

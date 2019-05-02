@@ -1,0 +1,6 @@
+GNOME
+
+The smaller kin to dwarves, with larger noses and slimmer builds. They are fans of practical jokes and sly humor. Gnomes share a love of precious metals and gems with their distant cousins, and are known to be master jewel cutters and polishers. They are suspicious of, though not outright antagonistic, to humans and elves and prefer to make their homes in rocky hills and dwellings away from larger humanoid races. 
+
+INT: +1
+WIS: -1

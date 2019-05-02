@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 17 19:30:35 2019
+
+@author: katnob8
+"""
+
+races_file_object = open("races.txt", 'r')
+races_text = races_file_object.read()
+races_file_object.close()
+print(races_text)
+#option = input("What would you like to do now?")

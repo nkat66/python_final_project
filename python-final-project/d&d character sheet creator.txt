@@ -1,0 +1,74 @@
+***********************
+D&D CHARACTER GENERATOR
+***********************
+
+(Assistance from: Cameron)
+__________________________________________________________________________
+Input: Character Stats, proficiencies, class, race and racial traits, background story, experience points, and items.
+
+Output: A character sheet stored in a text file containing the stats, any bonuses or penalties based on the score, the character's race and racial bonuses, a list of the items/money they're currently carrying, and their proficiencies.
+__________________________________________________________________________
+
+**NOTE: This program is based off of the character creation for Dungeons and Dragons 2nd edition.
+
+=========
+MAIN:
+
+1. The application will greet the user and ask them to choose from one of the following options:
+
+	1. Create a new character
+	2. Edit a character's sheet
+	3. Request an overview of the available classes
+	4. Request an overview of the available races
+	5. Exit the program
+
+2. The program will enter a while loop as long as the user inputs the acceptable options; otherwise, it will throw an exception.
+
+IF THE USER CHOOSES 1:
+
+	1a. The program will ask the user to input the character's name to create.
+
+	1b. The program will create the file and begin walking the user through the steps of creating a character (make_a_character)
+
+IF THE USER CHOOSES 2:
+
+	2a. The program will ask the user for the name of a file to open.
+
+	2b. The program will open the file as an "a", allowing any changes to be made to the program.
+
+	2c. The program will ask the user to make amendments to one of the fields.
+
+	2d. Once the user is done, the program will save the file and close it.
+
+IF THE USER CHOOSES 3:
+
+	3a. The program will open a file, presenting a list of classes, details about them, and list special characteristics about them.
+
+	3b. The program will close the file.
+
+IF THE USER CHOOSES 4:
+
+	4a. The program will open a file, presenting a list of races, details about them, and list the ability modifiers that apply to their race.
+
+	4b. The program will close the file.
+
+IF THE USER CHOOSES 5: 
+	
+	The program will thank the user for using it, close any open files, and close the application.
+	
+
+=========
+NOTES:
+
+- Dictionary for each character - will allow you to modify based on what key you want to use.
+- 
+
+=========
+FUNCTIONS:
+
+view_race_info(race) - allows the user to choose what race to view, opens the .txt file associated with it, reads it into the program, and then returns the contents to the user to read.
+
+view_class_info(player_class) - allows the user to choose what class to view, opens the .txt file associated with it, reads it into the program, and then returns the contents to the user to read. Same as the above, but with classes.
+
+roll_stats - will roll a d20 for each stat between 3 and 18.
+=========

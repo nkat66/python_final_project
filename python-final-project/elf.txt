@@ -1,0 +1,6 @@
+ELF
+
+While elves may appear delicate and more fragile than humans, this long-lived, fair race with a melodic language and a love of natural beauty can live to be over 1,200 years old. Unlike dwarves, they spurn the darkness of caves and mines for wide-open skies and growing things. While they have a tendency to be distant to other races and are slow to make friends, one who takes the time and effort to befriend them will always be remembered.
+
+DEX: +1
+CON: -1
