@@ -34,7 +34,7 @@ def apply_racial_modifiers(race):
         constitution = constitution - 1
         
     elif race == "3":
-        print("You get modifications to you attributes!")
+        print("You get modifications to you attributes!5")
         intelligence = intelligence + 1
         wisdom = wisdom - 1
 
@@ -304,8 +304,7 @@ def main():
             print_class_menu()
             player_class = int(input("Please enter the number of the class" + 
                                      "(1-8) you'd like to be: "))
-            write_class_to_sheet(player_class)
-            
+
             if player_class == 1:
                 character_sheet.write("Class: Bard\n")
         
@@ -457,12 +456,12 @@ def main():
                
                character_file = open(file_name, "a")
                
-               character_sheet.write("\n----------------\n")
+               character_file.write("\n----------------\n")
                
                #Lets the user name the section
                section_name = input("What would you like to name this section?")
-               character_sheet.write(section_name)
-               character_sheet.write("\n\n")
+               character_file.write(section_name)
+               character_file.write("\n\n")
                
                #Lets the user choose if they want to add anything to the
                #section
@@ -474,12 +473,12 @@ def main():
                while keep_going == 'y' or keep_going == "Y":
                    contents = input("What would you like to enter " +
                                     "(press ENTER to finish)? ")
-                   character_sheet.write(contents)
-                   character_sheet.write("\n")
+                   character_file.write(contents)
+                   character_file.write("\n")
                    keep_going = input("Would you like to add some more " +
                                       "information to this section? (Y/N) ")
                    
-               character_sheet.close()
+               character_file.close()
            
            print_main_menu()
             
