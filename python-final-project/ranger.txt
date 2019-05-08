@@ -1,0 +1,17 @@
+RANGER
+
+Huntsmen who live by the sword and their wits. As skilled woodsmen, they make excellent trackers and and animal handlers. They may wear any weapon and use any armor they wish, but must keep in mind that some of their special abilities can only be used when wearing light or leather armor. Rangers can be of any good alignment, be it Lawful, Chaotic, or Good - after all, even if it is their nature to do good, it is not always done by the rules.
+
+HIT DIE: 1d10
+
+RANGER-SPECIFIC ABILITIES:
+- Handle Tame and Untamed Animals
+- Able to Use Plant/Animal-based priest spells
+- May Build Castles, Forts, or Strongholds
+
+RANGER-SPECIFIC LIMITATIONS:
+- Must always be of good alignment
+- May not have henchmen
+- No more treasure than can be carried
+- Will immediately lose Ranger status if he knowingly commits an evil act.
+- Cannot earn any XP if unknowingly performing an evil act until they've cleansed selves of evil

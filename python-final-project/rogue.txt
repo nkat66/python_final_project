@@ -1,5 +1,18 @@
-HUMAN
+ROGUE
 
-You sneakily sneak up on nobles and take their pocket bags with sneaking fingers. You go, sneaker.
+Slight of hand and fleet of foot, rogues come from all walks of life in all races, shapes, and sizes with gold-hungry fingers and fleet feet. Thieves may not necessarily be dishonorable; a thief may strive to do good, but find themselves hindered by weakness of character or temptation of gold. Though they do not live necessarily by the law or by good, they can be of any other alignment; most find themselves partially neutral and ready to make their living through the fastest, easiest means possible.
 
-Info: Coming soon!
+HIT DIE: 1d6
+
+ROGUE-SPECIFIC ABILITIES:
+- Pick Pockets
+- Open Locks
+- Find/Remove Traps
+- Move Silently
+- Hide in Shadows
+- Detect Noise
+- Climb Walls
+- Read Languages
+- Backstab
+- Thieves' Cant
+- Use Scrolls

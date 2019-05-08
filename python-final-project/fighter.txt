@@ -1,8 +1,11 @@
 FIGHTER
 
-First rule of Fighter Club: Do Not Talk About Fighter Club.
+Experts in weapons and fighting tactics. Fighters may find themselves the center of myth and stories told throughout the ages if their actions and heroics are grand enough. They are the only class that may specialize in fighting with a particular weapon, though they are limited in spellcasting and magical item use.
 
-INFO: Coming Soon!
+HIT DIE: 1d10
+
+FIGHTER-SPECIFIC ABILITIES:
+- Weapon Specialization
 
 
 

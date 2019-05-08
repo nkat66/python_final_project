@@ -1,5 +1,16 @@
 DRUID
 
-The rag-wearing tree-huggers of the fantasy world.  Cut taxes, not trees!
+Priests who tend to nature and act as its stewards and guardians; rather than placing their faith in an ethereal, distant deity, they worship the spirits and gods who govern the very earth their feet stand upon. They shun metal armor, and use only leather armors, wooden shields, and magical items to guard themselves. Their focus and task for their time on this earth consists of continuing the natural cycles of death and rebirth in a sustainable and balanced fashion.
 
-INFO: Coming soon!
+HIT DIE: 1d8
+
+SPELLS: Druids have access to all spells involving animals, elements, healing, plants, and weather, as well as those available to all magic schools. Their skills with divination are limited, and they cannot use books or scrolls as priests can. All other magical items are available for their use.
+
+DRUID-SPECIFIC POWERS:
+- Identify Plants, Animals, and Pure Water
+- Pass Through Overgrowth
+- Speak the Language of Woodland Creatures
+- Immune to Charm from Woodland Creatures
+- Shapechange
+
+NOTE: Druids CANNOT turn undead.

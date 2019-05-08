@@ -1,6 +1,5 @@
 HALF-ELF
 
-Half man, half elf. The best of both worlds!
+The most common type of mix-raced humanoid, half-elves possess both the curiosity and inventiveness of their human side and the love of nature and artistic sense of their elven side. Half-elf applies to those who are direct children of elves and humans, or those who have elven ancestors in their blood. They have no language or community of their own, but instead live in both human and Elven communities, where they can be viewed with anything from curiosity to outright bigotry.
 
-CHA: +#
-CON: -#
+This race has no ability modifiers.

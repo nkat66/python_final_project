@@ -1,6 +1,6 @@
 CLERIC
 
-The class in which saying a "Hail Mary" might actually smite a graveyard of zombies.
+The most common type of priest, who may be an adherent to any god or follower of any religion. Though they can serve as sturdy fighters on the battlefield, their true power is in the spells granted to them by their deity and their ability to drive away and destroy the undead. They devote their lives to defeat the abominations that lie between life and death using the powers granted to them by their god - powers they must take care not to abuse, lest they be taken away just as quickly.
 
-INFO: Coming soon!
+HIT DIE: 1d8
 

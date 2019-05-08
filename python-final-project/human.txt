@@ -1,7 +1,6 @@
 HUMAN
 
-The vanilla flavor of the fantasy world races. 
+The most common and versatile race amongst the others. What they lack in sturdiness, swiftness, and charisma they more than make up for in terms of adaptability, innovation, and curiosity. As a result, amongst all the races that occupy the world, they most often find themselves in considerable positions of power, with empires that other races have difficulty handling.
 
-INT: +#
-WIS: -#
+This race has no ability modifiers.
 

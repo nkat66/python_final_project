@@ -1,5 +1,16 @@
 WIZARD
 
-With a snap of your fingers you have FIRE! It's a shame that your friends are less awed and more curious if you could light their barbecues.
+Sharp-minded scholars who study and work with the various types of magic that exist in the world. Though they are frail of body and tend to be weak when wielding weapons, they more than make up for it with their conjurations and incantations. They are also able to not only use the most magical items out of any class, they are also capable of creating new magical items, from potions to magical swords. A wizard may choose the path of the mage and learn many spells from all the schools, or he may choose to specialize in one and truly master its craft. 
 
-INFO: Coming soon!
+HIT DIE: 1d4
+
+SCHOOLS OF MAGIC:
+- Abjuration
+- Alteration
+- Conjuration and Summoning
+- Enchantments and Charms
+- Greater Divination
+- Lesser Divination
+- Illusion
+- Invocation/Evocation
+- Necromancy

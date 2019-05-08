@@ -1,6 +1,22 @@
 PALADIN
 
-Think "BY THE POWER OF GRAYSKULL!", except holier.
+A symbol of righteousness and virtue, paladins are noble and heroic figures who serve as a symbol of justice and truth to the masses. As such, they must maintain high ideals, along with an adherence to lawfulness and good deeds. Though powerful warriors, this ideal is hard to maintain; a warrior who knowingly commits an evil act loses their powers permanently, while those who perform evil or chaotic acts unwittingly under the influence of a spell must seek out and perform some dangerous penance to regain their powers. However, those who are able to hold fast to the high standards held by this class find themselves armed with powerful abilities indeed.
 
-INFO: Coming soon!
+HIT DIE: 1d10
 
+PALADIN-SPECIFIC ABILITIES:
+- Detect Evil
+- +2 to Saving Throws
+- Immune to All Disease
+- Lay-On-Hands Healing
+- Cure Disease
+- Aura of Protection (10-ft radius)
+- Call Upon War Horse
+- Priest Spells (9th level and beyond)
+
+PALADIN-SPECIFIC LIMITATIONS:
+- May not possess more than 10 magical items at a time
+- Never Retain or Accrue Wealth
+- Must tithe to Charitable/Religious institutions
+- Does not attract followers
+- May Only Employ Lawful Good Henchmen

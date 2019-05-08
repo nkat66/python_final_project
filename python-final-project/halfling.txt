@@ -1,9 +1,7 @@
-====================
-
 HALFLING
 
-Small people who live in hills. For best results when bribing, use ale or baked goods!
+Creatures of comfort and lovers of good food, Halflings are known to be short, plump, and averse to shoes of any sort. Their friendly and conversational nature allows them to get along with other races quite well, and find kindred spirits for themselves in the Gnomes. They are a hardy and hard-working people who prefer home, hearth, and good humor and stories to rough living and dangerous adventures, but when something needs to be done they can be counted on to step up and use their honesty and hardworking nature to its fullest potential.
 
-DEX: +#
-STR: -#
+DEX: +1
+STR: -1
 

@@ -1,6 +1,18 @@
 BARD
 
-If I give you a gold, will you belt out "Bohemian Rhapsody" on your lyre for me?
+Spinners of stories and lovers of fanciful tales. Bards are less suspicious than their distant cousins, the thieves; they are less concerned with what's in the pockets of richer folk and more interested with the history, lore, and tales that come from a good book or a talented storyteller. They tend to be glib, charismatic, and lighthearted, making their way through the world through wit and a good song or two.
 
-INFO: Coming soon!
+HIT DIE: 1d6
+
+ROGUE ABILITIES:
+- Climb Walls
+- Detect Noise
+- Pick Pockets
+- Read Languages
+
+BARD-SPECIFIC ABILITIES:
+- Influence Group of NPCs
+- Inspiring Song
+- Counter Magical Attacks
+- Well-Traveled
 
